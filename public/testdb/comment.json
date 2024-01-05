@@ -1,0 +1,22 @@
+
+{
+     "C0": { 
+            "name": "Andreas Sanchez Paetzmann",
+            "timestamp": "Mi, 27 Juli 23 13:30:00",
+            "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique voluptates dolor sapiente tempora vel, consequatur facilis ratione sed atque odio mollitia omnis temporibus nesciunt quae voluptate soluta? Ad, minus facere!",
+            "likeCount": 3,
+            "dislikeCount": 0,
+            "likedFrom": ["U2","U3","U0"],
+            "views": 5
+        },
+
+     "C1": { 
+            "name": "Andreas Sanchez Paetzmann",
+            "timestamp": "Mi, 27 Juli 23 13:30:00",
+            "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique voluptates dolor sapiente tempora vel, consequatur facilis ratione sed atque odio mollitia omnis temporibus nesciunt quae voluptate soluta? Ad, minus facere!",
+            "likeCount": 3,
+            "dislikeCount": 0,
+            "likedFrom": ["U2","U3","U0"],
+            "views": 5
+        }
+}

@@ -1,0 +1,53 @@
+{
+    "K0":{
+        "firstName": "Mirsard",
+        "lastName": "Hanusievic",
+        "tel": "+491636055819",
+        "mobil": "+491636055819",
+        "adress": {
+            "street":"Inselkammer Str.",
+            "number": "11",
+            "zip": "82008",
+            "city": "munich",
+            "region": "BY",
+            "country": "DE"
+        },
+        "connectedObjects": ["O0"],
+        "mainObject": "O0",
+        "additionalInfo": ""
+    },
+    "K1":{
+        "firstName": "Mirsard",
+        "lastName": "Hanusievic",
+        "tel": "+491636055819",
+        "mobil": "+491636055819",
+        "adress": {
+            "street":"Inselkammer Str.",
+            "number": "11",
+            "zip": "82008",
+            "city": "munich",
+            "region": "BY",
+            "country": "DE",
+            "additionalInfo": ""
+        },
+        "connectedObjects": ["O0"],
+        "mainObject": ""
+    },
+    "K2":{
+        "firstName": "Mirsard",
+        "lastName": "Hanusievic",
+        "tel": "+491636055819",
+        "mobil": "+491636055819",
+        "adress": {
+            "street":"Inselkammer Str.",
+            "number": "11",
+            "zip": "82008",
+            "city": "munich",
+            "region": "BY",
+            "country": "DE"
+        },
+        "connectedObjects": ["O0"],
+        "mainObject": "",
+        "additionalInfo": ""
+    }
+}

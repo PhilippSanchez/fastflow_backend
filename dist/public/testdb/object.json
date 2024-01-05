@@ -1,0 +1,15 @@
+{
+    "O0": {
+        "name": "WEG 200",
+        "adress": {
+            "street": "Dachauer Str.",
+            "number": "34",
+            "zip": "80335",
+            "city": "munich",
+            "region": "BY",
+            "country": "DE"
+        },
+        "mainContact": "K0",
+        "contacts": ["K0", "K2"]
+    }
+}

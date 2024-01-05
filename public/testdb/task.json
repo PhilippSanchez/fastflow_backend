@@ -1,0 +1,47 @@
+[   {
+    "T0": {
+    "objectID": "O0",
+    "title":"Geragen Tor Defekt",
+    "contaktId": "K0",
+    "datum": "20.10.23",
+    "deadline": "22.11.23",
+    "creatorID": "U1",
+    "assignedTo": ["U2", "U3", "U0"],
+    "prio": "P0",
+    "status": "S1",
+    "progress":[
+                {"status":"S1",
+                 "datum": "20.10.23",
+                 "user": "U2"},
+
+                 {"status":"S3",
+                 "datum": "20.10.23",
+                 "user": "U0"}
+                ],
+    "commentID": "C0",
+    "fileDirId": "F0"
+    }},
+    {
+    "T2": {
+        "objectID": "O0",
+        "title":"Geragen Tor Defekt",
+        "contaktId": "K0",
+        "datum": "20.10.23",
+        "deadline": "22.11.23",
+        "creatorID": "U1",
+        "assignedTo": ["U2", "U3", "U0"],
+        "prio": "P0",
+        "status": "S1",
+        "progress":[
+                    {"status":"S1",
+                     "datum": "20.10.23",
+                     "user": "U2"},
+    
+                     {"status":"S3",
+                     "datum": "20.10.23",
+                     "user": "U0"}
+                    ],
+        "commentID": "C0",
+        "fileDirId": "F0"
+        }}
+    ]

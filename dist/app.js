@@ -5,9 +5,8 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.app = void 0;
 const express_1 = __importDefault(require("express"));
-const get_router_1 = __importDefault(require("./router/get_router"));
-const post_router_1 = __importDefault(require("./router/post_router"));
+const test_router_1 = __importDefault(require("./router/test_router"));
+const cors_1 = __importDefault(require("cors"));
 const app = (0, express_1.default)();
 exports.app = app;
-app.use('', get_router_1.default);
-app.use('', post_router_1.default);
+app.use('', (0, cors_1.default)(), test_router_1.default);

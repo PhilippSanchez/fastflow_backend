@@ -1,0 +1,42 @@
+{
+    "U0": {
+        "name": "Philipp Sanchez Paetzmann",
+        "initials": "PP",
+        "position": "CTO",
+        "rights": "admin",
+        "credentials": {
+            "userName": "Kagebushin",
+            "password": "1234"
+        }
+    },
+    "U1": {
+        "name": "Andreas Sanchez Paetzmann",
+        "initials": "AP",
+        "position": "Controller",
+        "rights": "user",
+        "credentials": {
+            "userName": "ceo",
+            "password": "1234"
+        }
+    },
+    "U2": {
+        "name": "Michaela Paetzmann",
+        "initials": "MP",
+        "position": "CO CEO",
+        "rights": "user",
+        "credentials": {
+            "userName": "sunflower",
+            "password": "1234"
+        }
+    },
+    "U3": {
+        "name": "Jesus Sanchez Gonzalez",
+        "initials": "JG",
+        "position": "CEO",
+        "rights": "user",
+        "credentials": {
+            "userName": "jesulin",
+            "password": "1234"
+        }
+    }
+}
